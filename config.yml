@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://nobraztsov.github.io/"
+title: Nikita Obraztsov
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,26 +12,28 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: About
+          url: about/
+          weight: 1
+        - name: Publications
+          url: publications/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Talks
+          url: talks/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: Notes
+          url: notes/
+          weight: 4
+        - name: News
+          url: news/
+          weight: 5
+        - name: Contact
+          url: contact/
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
+    description: "Nikita Obraztsov — sociologist of religion, computational social scientist. Research on secularization, religious networks, and agent-based modeling."
+    author: Nikita Obraztsov
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -44,7 +46,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["publications","talks","notes","news"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,50 +56,38 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Nikita Obraztsov
+          subtitle: "I am a master's student in Computational Sociology at the European University at St. Petersburg. My research focuses on religious network topology, secularization, and agent-based modeling. I also lecture on world religions and the sociology of religion for general audiences."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Publications
+              url: publications/
+            - name: Talks
+              url: talks/
+            - name: Notes
+              url: notes/
+            - name: News
+              url: news/
+            - name: Contact
+              url: contact/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:nikobrazets@gmail.com
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
+          url: https://scholar.google.com/
         - name: GitHub
-          url: https://github.com/user
+          url: https://github.com/nobraztsov
         - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
+          url: https://www.youtube.com/@ON_religio
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/nikobraztsov/
+        - name: Telegram
+          url: https://t.me/nikitaobraztsov
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Nikita Obraztsov"
       icon: favicon.ico
       iconHeight: 18
 
@@ -115,7 +105,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
