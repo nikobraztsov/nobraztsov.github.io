@@ -2,6 +2,63 @@ baseURL: "https://nikobraztsov.github.io/"
 title: Nikita Obraztsov
 theme: PaperMod
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    languageName: EN
+    weight: 1
+    menu:
+      main:
+        - name: About
+          url: /about/
+          weight: 1
+        - name: Publications
+          url: /publications/
+          weight: 2
+        - name: Talks
+          url: /talks/
+          weight: 3
+        - name: Media
+          url: /media/
+          weight: 4
+        - name: Notes
+          url: /notes/
+          weight: 5
+        - name: News
+          url: /news/
+          weight: 6
+        - name: Contact
+          url: /contact/
+          weight: 7
+  ru:
+    languageName: RU
+    weight: 2
+    menu:
+      main:
+        - name: Обо мне
+          url: /ru/about/
+          weight: 1
+        - name: Публикации
+          url: /ru/publications/
+          weight: 2
+        - name: Выступления
+          url: /ru/talks/
+          weight: 3
+        - name: СМИ
+          url: /ru/media/
+          weight: 4
+        - name: Заметки
+          url: /ru/notes/
+          weight: 5
+        - name: Новости
+          url: /ru/news/
+          weight: 6
+        - name: Контакты
+          url: /ru/contact/
+          weight: 7
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
@@ -9,28 +66,6 @@ pagination:
 
 taxonomies:
     tag: tags
-
-menu:
-    main:
-        - name: About
-          url: about/
-          weight: 1
-        - name: Publications
-          url: publications/
-          weight: 2
-        - name: Talks
-          url: talks/
-          weight: 3
-        - name: Notes
-          url: notes/
-          weight: 4
-        - name: News
-          url: news/
-          weight: 5
-        - name: Contact
-          url: contact/
-          weight: 6
-
 params:
     description: "Nikita Obraztsov — sociologist of religion, computational social scientist. Research on secularization, religious networks, and agent-based modeling."
     author: Nikita Obraztsov
