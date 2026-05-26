@@ -1,20 +1,33 @@
 ---
 title: "Publications"
-description: "Publications by Nikita Obraztsov"
+description: "Books, articles, and working papers by Nikita Obraztsov"
 ---
 
 ## Books
 
-**Religions of the World**
+**Religions of the World: How to Decode the Sacred Side of Humanity**
 Bombora/EKSMO, 2024.
-A popular science introduction to the major world religions for a general audience.
+A popular science introduction to world religions for a general audience.
+[Publisher's page →](https://eksmo.ru/book/religioznyy-prosvet-kak-razgadat-sakralnuyu-storonu-chelovechestva-ITD1360441/)
 
 **Orthodox Traditions and Holidays** *(forthcoming)*
-Mann, Ivanov & Ferber (MIF).
-Under contract.
+Mann, Ivanov & Ferber (MIF). Under contract.
 
-## Conference papers & working papers
+---
 
-**Network Segregation as a Buffer Against Secularization: An Agent-Based Model**
-Presented at the European Social Networks Conference (EUSN 2026), Norrköping, Sweden, June 2026.
-Presented at the Computational Social Science conference (CSS 2026), St. Petersburg, April 2026.
+## Journal articles and conference papers
+
+**The Concept of Belonging Without Believing in the Context of Orthodox Identity Formation in Russia**
+In: *Sociology and Society: Formation and Functioning of Social Memory*. Proceedings of the VII All-Russian Sociological Congress. Moscow, November 2025. EDN QUINAN.
+[PDF →](/papers/obraztsov-belonging.pdf)
+
+*Abstract.* Analyzing the religious identity of Orthodox Christians in contemporary Russia, the author concludes that the concept of belonging without believing can be successfully applied to interpret sociological data. The article draws attention to a significant gap between declared religiosity and actual religious practice, and proposes possible mechanisms for interpreting empirically observable facts.
+
+*Keywords:* contemporary religious situation, belonging without believing, secularization, Orthodoxy.
+
+---
+
+## Working papers and research in progress
+
+**Network Segregation as a Temporal Buffer Against Secularization: An Agent-Based Model**
+Presented at EUSN 2026 (Norrköping) and CSS 2026 (St. Petersburg). Manuscript in preparation.
