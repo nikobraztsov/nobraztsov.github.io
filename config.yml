@@ -14,7 +14,7 @@ languages:
       profileMode:
         enabled: true
         title: Nikita Obraztsov
-        subtitle: "I am a master's student in Computational Sociology at the European University at St. Petersburg. My research focuses on religious network topology, secularization, and agent-based modeling. I also lecture on world religions and the sociology of religion for general audiences."
+        subtitle: "MA student in Computational Sociology at the European University at St. Petersburg (exp. 2027). MA in Religious Studies, St. Petersburg State University. Member of the Russian Religious Studies Association. Research: secularization theory, contemporary religiosity, computational methods in the study of religion."
         imageUrl: "picture.jpeg"
         imageWidth: 160
         imageHeight: 160
@@ -23,8 +23,10 @@ languages:
             url: /publications/
           - name: Talks
             url: /talks/
-          - name: Notes
-            url: /notes/
+          - name: Lectures
+            url: /lectures/
+          - name: Media
+            url: /media/
           - name: News
             url: /news/
           - name: Contact
@@ -42,11 +44,11 @@ languages:
         - name: Talks
           url: /talks/
           weight: 3
+        - name: Lectures
+          url: /lectures/
+          weight: 4
         - name: Media
           url: /media/
-          weight: 4
-        - name: Notes
-          url: /notes/
           weight: 5
         - name: News
           url: /news/
@@ -57,12 +59,12 @@ languages:
   ru:
     languageName: RU
     weight: 2
-    contentDir: content-ru
+    contentDir: /Users/nikitaobraztsov/Documents/nikobraztsov.github.io/content-ru
     params:
       profileMode:
         enabled: true
         title: Никита Образцов
-        subtitle: "Магистрант программы «Вычислительные социальные науки» в Европейском университете в Санкт-Петербурге. Изучаю устойчивость религиозных сетей в условиях секуляризации методом агентного моделирования. Читаю публичные лекции по религиоведению."
+        subtitle: "Магистрант вычислительной социологии, Европейский университет в Санкт-Петербурге (выпуск 2027). Магистр религиоведения СПбГУ. Член Русского религиоведческого общества. Научные интересы: современная религиозная ситуация, теория секуляризации, компьютерные методы в религиоведении."
         imageUrl: "picture.jpeg"
         imageWidth: 160
         imageHeight: 160
@@ -71,6 +73,10 @@ languages:
             url: /ru/publications/
           - name: Выступления
             url: /ru/talks/
+          - name: Лекции
+            url: /ru/lectures/
+          - name: СМИ
+            url: /ru/smi/
           - name: Новости
             url: /ru/news/
           - name: Контакты
@@ -88,11 +94,11 @@ languages:
         - name: Выступления
           url: /ru/talks/
           weight: 3
-        - name: СМИ
-          url: /ru/media/
+        - name: Лекции
+          url: /ru/lectures/
           weight: 4
-        - name: Заметки
-          url: /ru/notes/
+        - name: СМИ
+          url: /ru/smi/
           weight: 5
         - name: Новости
           url: /ru/news/
@@ -110,7 +116,7 @@ taxonomies:
     tag: tags
 
 params:
-    description: "Nikita Obraztsov — sociologist of religion, computational social scientist. Research on secularization, religious networks, and agent-based modeling."
+    description: "Nikita Obraztsov — sociologist of religion, computational social scientist."
     author: Nikita Obraztsov
     DateFormat: "January 2006"
     defaultTheme: light
@@ -124,7 +130,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","talks","notes","news"]
+    MainSections: ["publications","talks","lectures","media","news"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -132,26 +138,6 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-    profileMode:
-          enabled: true
-          title: Nikita Obraztsov
-          subtitle: "I am a master's student in Computational Sociology at the European University at St. Petersburg. My research focuses on religious network topology, secularization, and agent-based modeling. I also lecture on world religions and the sociology of religion for general audiences."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Publications
-              url: /publications/
-            - name: Talks
-              url: /talks/
-            - name: Notes
-              url: /notes/
-            - name: News
-              url: /news/
-            - name: Contact
-              url: /contact/
-            - name: RU
-              url: /ru/
 
     socialIcons:
         - name: CV
