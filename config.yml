@@ -19,6 +19,8 @@ languages:
         imageWidth: 160
         imageHeight: 160
         buttons:
+          - name: About
+            url: /about/
           - name: Publications
             url: /publications/
           - name: Talks
@@ -69,6 +71,8 @@ languages:
         imageWidth: 160
         imageHeight: 160
         buttons:
+          - name: Обо мне
+            url: /ru/about/
           - name: Публикации
             url: /ru/publications/
           - name: Выступления
