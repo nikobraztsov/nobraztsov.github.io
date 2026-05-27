@@ -11,7 +11,7 @@ Since 2022, I have delivered over 100 public lectures on world religions, Orthod
 
 I am the author of a book on world religions (Bombora/EKSMO, 2024) and am currently writing a book on Orthodox traditions and holidays under contract with Mann, Ivanov & Ferber (MIF).
 
-My CV is available [here](cv.pdf).
+My CV is available [here](https://nikitaobraztsov.com/cv.pdf).
 
 ## Research interests
 
