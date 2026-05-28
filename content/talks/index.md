@@ -10,19 +10,19 @@ European Social Networks Conference (EUSN 2026), Norrköping, Sweden, June 2026.
 Computational Social Science conference (CSS 2026), St. Petersburg, April 2026.
 
 **Structural Limits of Religious Minority Resilience in Secular Society: An Agent-Based Modeling Approach**
-All-Russian Academic Conference "Studies of Religion: Past, Present, Future", Russian Religious Studies Association, online, April 2026.
+All-Russian Academic Conference "Studies of Religion: Past, Present, Future", Russian Religious Studies Association, online, April 2026. [My sertificate (in Russian) →](/docs/spring-2026.pdf)
 
 **"Belonging Without Believing" in the Context of Orthodox Identity Formation in Russia**
-VII All-Russian Sociological Congress, Russian Society of Sociologists, Moscow, November 2025.
+VII All-Russian Sociological Congress, Russian Society of Sociologists, Moscow, November 2025. [My sertificate (in Russian) →](/docs/soc-congress.pdf)
 
 **From Description to Explanation: Analytical Sociology as a Methodological Resource for Religious Studies**
-International Conference "Religious Studies in Tsarskoye Selo", St. Petersburg, November 2025.
+International Conference "Religious Studies in Tsarskoye Selo", St. Petersburg, November 2025. [My sertificate (in Russian) →](/docs/tsartskoye-selo.pdf)
 
 **Computational Methods in Religious Studies: Effectiveness and Limits**
-VIII Congress of the Russian Religious Studies Society, Vladimir, October 2025.
+VIII Congress of the Russian Religious Studies Society, Vladimir, October 2025. [My sertificate (in Russian) →](/docs/rel-congress.pdf)
 
 **The Popularity of Religious Chatbots as an Indicator of Religious Transformation**
-II International Conference "Artificial Intelligence and Spiritual Culture", Plekhanov Russian University of Economics, Moscow, October 2025.
+II International Conference "Artificial Intelligence and Spiritual Culture", Plekhanov Russian University of Economics, Moscow, October 2025. [My sertificate (in Russian) →](/docs/ai-culture.pdf) 
 
 ---
 
@@ -34,7 +34,8 @@ Lectures organised by [Medio Modo](https://mediomodo.ru).
 St. Petersburg, May 2026.
 
 **From Discordia to the Flying Spaghetti Monster: Parody Religions in the Modern World**
-Moscow, May 2026.
+Moscow, May 2026. 
+[Lecture transcript →](/lectures/parody-religions-en/)
 
 **What Does the Modern Person Believe? From Horoscopes to Neural Networks**
 Moscow, March 2026.
